@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moon Landing</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Reset</string>
+    <string name="description">picture that contains the music album theme image</string>
+</resources>
